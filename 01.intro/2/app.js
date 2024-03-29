@@ -83,8 +83,9 @@
     Nbr.forEach(x => {
         Addnumber += parseFloat(x);
     });
-
+     
     console.log("new number with last " + repeat +" number : " + Addnumber)
+
 
 
 })();
