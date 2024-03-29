@@ -31,8 +31,6 @@
     console.log("First element: " + FirstArray[0])
     console.log("Last element: " + FirstArray[FirstArray.length-1])
 
-
-
     
 })();
 
