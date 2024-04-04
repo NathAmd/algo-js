@@ -20,8 +20,10 @@
     NextExercice("3.3");
 
     let CopyArray = [];
-    FirstArray.forEach(x => { CopyArray.push(x) })
+    FirstArray.forEach(x => { CopyArray.push(x) });
     
+    // CopyArray = [...FirstArray];
+
     console.log("Original: " + FirstArray);
     console.log("Copy: " + CopyArray);
 
